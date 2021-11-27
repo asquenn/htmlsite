@@ -11,3 +11,9 @@ A ready made site that can be hosted locally.
 7. Enter `npm i express` into your Terminal.
 8. Finally, enter `node .` into your Terminal to run the files.
 9. Head to https://localhost:3000 in your browser to see it!
+
+**Site Features:**
+- Basic text on homepage
+- 404 error page (works when going to any URL other than /)
+- Roboto font
+- Easy setup
